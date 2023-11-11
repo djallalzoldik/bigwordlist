@@ -1,0 +1,13 @@
+/static../.git/config
+/js../.git/config
+/images../.git/config
+/img../.git/config
+/css../.git/config
+/assets../.git/config
+/content../.git/config
+/events../.git/config
+/media../.git/config
+/lib../.git/config
+/.git/config
+/wp-content/plugins/.git/config
+/wp-content/themes/.git/config
