@@ -6,8 +6,8 @@
     "termsOfService": "javascript:alert(document.cookie)",
     "contact": {
       "name": "API Support",
-      "url": "javascript:alert(document.cookie)",
-      "email": "javascript:alert(document.cookie)"
+      "url": "https://google.com",
+      "email": "https://google.com"
     },
     "version": "1.0.1"
   }
